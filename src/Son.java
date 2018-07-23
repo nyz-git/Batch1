@@ -2,7 +2,7 @@
 class Father {
 
 	public Father() {
-		System.out.println("Father Con");
+		System.out.println("hjhjFather Con");
 	}
 }
 
